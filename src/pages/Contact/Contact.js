@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="contact-page">
       <div className="contact-banner">
-        <h2>Contact Me</h2>
+        <h2 className="hTwo">Contact Me</h2>
       </div>
       <div className="contact-info">
         <p>OliveProWebDev@gmail.com</p>

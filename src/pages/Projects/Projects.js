@@ -5,11 +5,9 @@ import OliveAvatar from "../../assets/OliveAvatar.png";
 
 const Projects = () => {
   return (
-    <div className="home-banner">
+    <div className="project-banner">
       <div className="text-container">
-        <h1></h1>
-        <h2>Projects & Experience</h2>
-        <p></p>
+        <h1 className="hOne">Projects & Experience</h1>
       </div>
       <img alt="avatar" src={OliveAvatar} className="avatar" 
       />
@@ -17,7 +15,7 @@ const Projects = () => {
   );
 };
 
-export default Projects
+export default Projects;
 
 
 
