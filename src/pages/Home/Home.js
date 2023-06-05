@@ -6,12 +6,13 @@ const Home = () => {
   return (
     <div className="home-banner">
       <div className="text-container">
-        <h1>Hi, I'm</h1>
-        <h2>Olive</h2>
+        <div className="title-container">
+          <h1>Hi, I'm</h1>
+          <h2>Olive</h2>
+        </div>
         <p>Full Stack Web Developer</p>
       </div>
-      <img alt="avatar" src={OliveAvatar} className="avatar" 
-      />
+      <img alt="avatar" src={OliveAvatar} className="avatar" />
     </div>
   );
 };
