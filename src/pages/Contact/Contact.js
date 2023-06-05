@@ -8,7 +8,9 @@ const Contact = () => {
         <h2 className="hTwo">Contact Me</h2>
       </div>
       <div className="contact-info">
-        <p>OliveProWebDev@gmail.com</p>
+      <p>For enquiries, please email me at: <a href="mailto:OliveProWebDev@gmail.com">OliveProWebDev@gmail.com</a></p>
+        <br></br>
+        <a href="https://www.linkedin.com/in/olivia-provencio-johnson/" target="_blank" rel="noopener noreferrer">My LinkedIn Profile</a>
       </div>
     </div>
   );

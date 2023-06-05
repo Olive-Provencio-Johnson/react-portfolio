@@ -33,13 +33,6 @@ body {
     margin-bottom: 20px;
 }
 
-.contact-info {
-    background-color: #f0f4f8;
-    padding: 20px;
-    border-radius: 10px;
-}
-
-
 h2.hTwo {
     color: #1f241c;
     padding-left: 10px;
@@ -48,7 +41,11 @@ h2.hTwo {
     
 }
 
+
 .contact-info {
+    background-color: #f0f4f8;
+    padding: 20px;
+    border-radius: 10px;
     color: gray;
     padding-left: 10px; 
     padding-top: 10px;
