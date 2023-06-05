@@ -1,0 +1,12 @@
+.nav-bar-container {
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.nav-bar-container > li > a {
+    text-decoration: none;
+    color: black;
+}
