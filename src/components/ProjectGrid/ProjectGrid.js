@@ -6,7 +6,7 @@ const ProjectGrid = () => {
   const projects = [
     {name: "Adventure Finder", url: "https://jbungurait.github.io/Adventure_Finder/" },
     {name: "GatherNow", url: "https://boiling-mesa-08063.herokuapp.com/login" },  
-    {name: "StreamVerse", url: "" },
+    {name: "StreamVerse", url: "https://warm-ravine-32968.herokuapp.com/" },
   ]; 
 
   return (
